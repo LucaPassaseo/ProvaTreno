@@ -4,7 +4,7 @@ public class Vagone {
 	private int numPostiMax;
 	private String matricola;
 	private int tipoClasse;
-	
+	//modifica fatta online
 	public Vagone(int nPostiO, int nPostiM, String mat, int tipoC) {
 		numPostiOccupati=nPostiO;
 		numPostiMax=nPostiM;
