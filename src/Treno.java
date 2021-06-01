@@ -4,6 +4,7 @@ import java.util.Arrays;
  * @author Luca
  * versione 1 online
  */
+//modificato online
 public class Treno {
 	private int numVagoniPresenti,numVagoniMax;
 	private String nomeTreno;
